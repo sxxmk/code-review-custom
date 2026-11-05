@@ -1,0 +1,3 @@
+interface:
+  display_name: "Code Review Custom"
+  short_description: "Self-contained two-axis code review"
